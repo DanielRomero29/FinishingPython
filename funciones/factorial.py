@@ -9,5 +9,3 @@ def fac(numero):
         
     except:
         return "Error, introduce un dato correcto"
-    
-print(fac(5))
